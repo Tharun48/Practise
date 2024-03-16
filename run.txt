@@ -1,4 +1,3 @@
 Hello main
 bye
 run f1
-main 2
